@@ -24,7 +24,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 A définir
 ```
 
-
+Oh non les conflits
 
 ## Executer les tests
 
